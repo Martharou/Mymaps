@@ -1,0 +1,2 @@
+# Mymaps
+An interactive map
